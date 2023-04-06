@@ -7,7 +7,7 @@ Now you can with Torture Simulator
 * Keyboard Support ⌨️
 * Spawnable Dummies 👀
 * Dummie Deaths 😵
-* * Custom Dummies😎
+* Custom Dummies😎
 * Playable in any webgl browser 💻
 ## Coming Soon!
 * More Weapons 🗡️
