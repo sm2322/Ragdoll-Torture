@@ -11,3 +11,4 @@ Now you can with Torture Simulator
 * Custom Dummies😎
 * Dummie Deaths 😵
 * More Weapons 🗡️
+* Controler and Moblile Support 🎮
