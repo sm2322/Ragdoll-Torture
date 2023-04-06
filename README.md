@@ -11,7 +11,6 @@ Now you can with Torture Simulator
 * Playable in any webgl browser 💻
 ## Coming Soon!
 * More Weapons 🗡️
-* * Flamethrower
-* * Nuke
-* 
+ * Flamethrower
+ * Nuke
 * Controler and Moblile Support 🎮
